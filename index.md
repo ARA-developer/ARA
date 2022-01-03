@@ -6,7 +6,7 @@ ARA 프로젝트는 플렛폼의 장벽을 넘어 모든 기기에서 파일 및
 ## Our team & Contact
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hanchaa@gmail.com)](mailto:neo81389@gmail.com)
 
-<img src="https://github.com/ARA-developer/ARA/blob/main/35446381.png" width="200" height="200"/>   <img src="https://github.com/ARA-developer/ARA/blob/main/46518263.jpeg" width="200" height="200"/>   <img src="https://github.com/ARA-developer/ARA/blob/main/18616006.png" width="200" height="200"/>   <img src="https://github.com/ARA-developer/ARA/blob/main/62137001.jpeg" width="200" height="200"/>
+<img src="https://github.com/ARA-developer/ARA/blob/gh-pages/35446381.png" width="200" height="200"/>   <img src="https://github.com/ARA-developer/ARA/blob/gh-pages/46518263.jpeg" width="200" height="200"/>   <img src="https://github.com/ARA-developer/ARA/blob/gh-pages/18616006.png" width="200" height="200"/>   <img src="https://github.com/ARA-developer/ARA/blob/gh-pages/62137001.jpeg" width="200" height="200"/>
 
 차례로
 
