@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8deebc,100:96eff4&height=300&section=header&text=ARA&fontColor=ffffff&fontSize=90)
 
-You can use the [editor on GitHub](https://github.com/ARA-developer/ARA/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Sync through OS
+ARA 프로젝트는 플렛폼의 장벽을 넘어 모든 기기에서 파일 및 데이터 공유를 빠르고 쉽게 공유할 수 있는 서비스입니다
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Our team & Contact
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hanchaa@gmail.com)](mailto:neo81389@gmail.com)
 
-### Markdown
+<img src="https://github.com/ARA-developer/ARA/blob/main/35446381.png" width="200" height="200"/>   <img src="https://github.com/ARA-developer/ARA/blob/main/46518263.jpeg" width="200" height="200"/>   <img src="https://github.com/ARA-developer/ARA/blob/main/18616006.png" width="200" height="200"/>   <img src="https://github.com/ARA-developer/ARA/blob/main/62137001.jpeg" width="200" height="200"/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+차례로
 
-```markdown
-Syntax highlighted code block
+[이준희님 : Android & iOS 개발](https://github.com/JoonLee-K)
 
-# Header 1
-## Header 2
-### Header 3
+[차주한님 : Desktop 개발](https://github.com/hanchaa)
 
-- Bulleted
-- List
+[정우성님 : Desktop 개발](https://github.com/mung3477)
 
-1. Numbered
-2. List
+[이동훈님 : Android 개발](https://github.com/ldh019)
 
-**Bold** and _Italic_ and `Code` text
+## Feature
+- 동일 계정내 클립보드(텍스트 & 이미지) 공유
+- 동일 계정내 파일 공유(거리제한 X)
+- 모든 OS간 파일 공유(근거리)
+- 메세지 동기화 및 전송
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ARA-developer/ARA/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Status
+TBA
