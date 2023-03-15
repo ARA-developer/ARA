@@ -1,5 +1,8 @@
+![ARA product 1](https://user-images.githubusercontent.com/35446381/225304918-e3f44932-c872-4897-83d6-68cebc97fa00.jpeg)
 # Welcome to ARA Project
 We make service OS boundless File & Data transfer.
+
+<img src="https://user-images.githubusercontent.com/35446381/225304045-24790ca6-9cc7-4e8b-aff6-14ad7cc1ddad.png" width="200"/>
 
 # What is the project about?
 - We aim for File & Data seamless synchronization or sharing
