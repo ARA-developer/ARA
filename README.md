@@ -39,17 +39,10 @@ You can instantly synchronize clipboard data.
 We closed this function for renewal
 
 # Member
-## 이준희 - Android & iOS | Leader
-[Profile](https://github.com/JoonLee-K)
-
-## 차주한 - Desktop & BackEnd
-[Profile](https://github.com/hanchaa)
-
-## 정우성 - Android & BackEnd & Web page
-[Profile](https://github.com/mung3477)
-
-## 이동훈 - Android
-[Profile](https://github.com/ldh019)
+|Name|이준희|차주한|정우성|이동훈|
+|:---:|:---:|:---:|:---:|:---:|
+|Part|Android & iOS|Desktop & BackEnd|Android & BackEnd & Web page|Android|
+|Github|[JoonLee-K](https://github.com/JoonLee-K)|[hanchaa](https://github.com/hanchaa)|[mung3477](https://github.com/mung3477)|[ldh019](https://github.com/ldh019)|
 
 # Milestone
 Sharing milestone of the project
