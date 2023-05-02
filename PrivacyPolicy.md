@@ -7,7 +7,7 @@ this page explains Permissions needed in ARA application running on Android.
 | `android.permission.INTERNET` and `android.permission.ACCESS_NETWORK_STATE` | To determine if the service is able to connect to the Internet, and inform user of the current state |
 | `android.permission.BLUETOOTH_CONNECT` and `android.permission.BLUETOOTH` | Device name is set by using bluetooth name of the device|
 | `android.permission.READ_PHONE_STATE` | To detect screen On & Off state. Using this event realtime clipboard update period is setted |
-| `android.permission.WRITE_EXTERNAL_STORAGE` and `android.permission.READ_EXTERNAL_STORAGE` | Read & Write file to the device storage when using 'Drop' & 'Clipboard Sync' functionality |
+| `android.permission.WRITE_EXTERNAL_STORAGE` and `android.permission.READ_EXTERNAL_STORAGE` | Read & Write file to the device storage when using 'Drop' & 'Clipboard Image Sync' functionality |
 | `android.permission.SYSTEM_ALERT_WINDOW` | realtime clipboard synchronization needs popup window for clipboard sync with device |
 | `android.permission.ACTION_MANAGE_OVERLAY_PERMISSION` | realtime clipboard synchronization needs popup window for clipboard sync with device |
 | `android.permission.KILL_BACKGROUND_PROCESSES` | will be used by Foreground Service management system |
