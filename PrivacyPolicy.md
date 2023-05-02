@@ -18,4 +18,7 @@ this page explains Permissions needed in ARA application running on Android.
 
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email or post a discussion on GitHub, and I will surely try to fix it/help you.
 
+## Privacy Policy
+check out [pdf](https://github.com/ARA-developer/ARA/blob/main/%E1%84%87%E1%85%A6%E1%84%90%E1%85%A1%20%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3%20%E1%84%80%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%20%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%B5%E1%86%B7.pdf)
+
 You can contact us on vast.devgroup@gmail.com
